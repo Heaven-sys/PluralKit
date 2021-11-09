@@ -24,6 +24,8 @@
 
     <PropertyGroup>
         <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+
+    (propertyGroup switchlock)
     </PropertyGroup>
 
     <ItemGroup>
@@ -36,7 +38,38 @@
       <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.6.3" />
       <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.3" />
       <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />     
+      <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="6.0.1" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.3" />
       <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
+    </ItemGroup>     <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="6.0.1" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
+    </ItemGroup>     <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="6.0.1" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
+    </ItemGroup>     <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="6.0.1" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
+    </ItemGroup>     <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="6.0.1" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
+    </ItemGroup>     <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="6.0.1" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
+    </ItemGroup>
     </ItemGroup>
 
 </Project>
